@@ -21,7 +21,7 @@ $message = "Successful. Shopping amount is $cost pounds";
 Yii::$app->session->setFlash('buy', $message);
 ```
 
-![enter image description here](https://github.com/dogukankrtlz/portal-170202024/blob/master/imgs/sat%C4%B1n%20alma%20tamam.bmp)
+![enter image description here](https://github.com/dogukankrtlz/portal-170202024/blob/main/imgs/sat%C4%B1n%20alma%20tamam.bmp)
 
 ####Widget
 Widget kullanımına örnek olarak gii'nin oluşturduğu gridview özelleştirilerek kullanıldı.
@@ -31,16 +31,16 @@ Widget kullanımına örnek olarak gii'nin oluşturduğu gridview özelleştiril
 
 
 
-![Backend ekranı](https://github.com/dogukankrtlz/portal-170202024/blob/master/imgs/backend-1.jpg)
+![Backend ekranı](https://github.com/dogukankrtlz/portal-170202024/blob/main/imgs/backend-1.jpg)
 
 ##### Backend-sold_products
 
 
-![enter image description here](https://github.com/dogukankrtlz/portal-170202024/blob/master/imgs/backend-2.jpg)
+![enter image description here](https://github.com/dogukankrtlz/portal-170202024/blob/main/imgs/backend-2.jpg)
 
 ### Dil Paketleri
 Varolan tek dil paketi '/messages/tr-TR/main.php' dosyasıdır.
-Dosyayı görmek için: [main.php]([https://github.com/dogukankrtlz/portal-170202024/blob/master/messages/tr-TR/main.php](https://github.com/2019-BLM317/portal-170202024/blob/master/messages/tr-TR/main.php))
+Dosyayı görmek için: [main.php]([https://github.com/dogukankrtlz/portal-170202024/blob/main/messages/tr-TR/main.php](https://github.com/2019-BLM317/portal-170202024/blob/master/messages/tr-TR/main.php))
 
 
 ### RBAC
@@ -59,7 +59,7 @@ else{
 }
 ```
 
-![enter image description here](https://github.com/dogukankrtlz/portal-170202024/blob/master/RBAC.JPG)
+![enter image description here](https://github.com/dogukankrtlz/portal-170202024/blob/main/RBAC.JPG)
 
 Satın alma öncesi ise aşağıdaki kod ile kontrol sağlanıyor.
 ```
