@@ -11,7 +11,7 @@ Modülün kullanılabilmesi için gerekli tabloların oluşturulması ve örnek 
 Frontend kısmında checkbox'larla seçilen ürünler, eğer yeterli şartlar sağlanıyorsa buy butonuna tıklanarak satın alınabilir. Butona tıklamanın 'actionBuy' fonk. çalışır, seçilen her ürün için 'product' tablosunda stoklar güncellenir ve satılan ürünlerin tutulduğu 'sold_products' tablosuna ekleme yapılır.
 
 
-![enter image description here](https://github.com/dogukankrtlz/portal-170202024/blob/master/imgs/al%C4%B1%C5%9Fveri%C5%9F-1.bmp)
+![enter image description here](https://github.com/dogukankrtlz/portal-170202024/blob/main/imgs/al%C4%B1%C5%9Fveri%C5%9F-1.bmp)
 
 ####Flash mesaj kullanımı
 Satın alma tamamlandıysa alışveriş tutarı **flash mesajla** kullanıcıya bildirilir.
